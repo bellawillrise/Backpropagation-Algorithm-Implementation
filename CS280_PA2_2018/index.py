@@ -1,6 +1,5 @@
 import numpy as np
-from math import exp
-
+from matplotlib import plt
 #define architecture of nn
 n_in = 3
 n_h1 = 7
