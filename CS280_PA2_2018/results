@@ -1,0 +1,77 @@
+iteration: 500 Error: 0.657159
+iteration: 1000 Error: 0.908140
+iteration: 1500 Error: 0.906443
+iteration: 2000 Error: 0.901987
+iteration: 2500 Error: 0.913403
+
+iteration: 3000 Error: 0.643006
+iteration: 3500 Error: 0.775686
+iteration: 4000 Error: 0.785738
+iteration: 4500 Error: 0.720820
+iteration: 5000 Error: 0.529151
+
+iteration: 5500 Error: 0.532790
+iteration: 6000 Error: 1.410759
+iteration: 6500 Error: 0.550562
+iteration: 7000 Error: 0.543642
+iteration: 7500 Error: 0.544852
+iteration: 8000 Error: 0.500611
+
+iteration: 8500 Error: 0.122507
+iteration: 9000 Error: 0.559988
+iteration: 9500 Error: 0.017922
+iteration: 10000 Error: 0.513642
+iteration: 10500 Error: 0.022786
+
+iteration: 11000 Error: 0.113767
+iteration: 11500 Error: 0.025050
+iteration: 12000 Error: 0.013293
+iteration: 12500 Error: 0.080459
+iteration: 13000 Error: 0.002330
+iteration: 13500 Error: 0.021250
+
+
+ans =
+
+     0     0     0     0     0     0
+
+
+ans =
+
+     0     0     1     1     1     0
+
+
+ans =
+
+     0     1     0     1     0     1
+
+
+ans =
+
+     0     1     1     0     1     1
+
+
+ans =
+
+     1     0     0     0     1     1
+
+
+ans =
+
+     1     0     1     1     0     0
+
+
+ans =
+
+     1     1     0     1     1     0
+
+
+ans =
+
+     1     1     1     0     0     0
+
+Total Bits with error: 0
+Total epochs: 13981
+Network Error at termination: 0.000998
+
+>>
